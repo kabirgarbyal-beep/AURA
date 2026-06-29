@@ -1,0 +1,6 @@
+{
+  "name": "Aura Architecture",
+  "description": "An immersive, Awwwards-level cinematic luxury interior design experience featuring interactive 3D spaces, fluid GSAP typography motion, and a custom spatial documentary structure.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
